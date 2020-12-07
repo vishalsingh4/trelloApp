@@ -1,0 +1,48 @@
+.board-layout {
+    background-color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding: 10px;
+    height: 700px;
+  }
+.board-text {
+    background-color: #ffffff;
+    font-weight: bold;
+    font-size: 28px;
+    padding: 5px;
+    margin-bottom: 15px;
+  }
+  
+  .board-list {
+    background-color: #ffffff;
+    border-radius: 3px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .list-title {
+    font-size: 18px;
+    font-weight: bold;
+  }
+
+  .add-taskArea {
+    display: flex;
+    padding-bottom: 12px;
+  }
+
+  #submit-btn {
+    border-radius: 15px;
+    background: green;
+    width: 120px;
+    height: 35px;
+    margin-left: 15px;
+    cursor: pointer;
+  }
+
+  .card {
+    background-color: #ffffff;
+    padding: 10px;
+    cursor:pointer;
+  }
+  
